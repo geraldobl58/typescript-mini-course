@@ -55,3 +55,8 @@ cart = {
 // Type Inference 
 let message2 = "mensagem definida"
 message2 = "string nova"
+
+window.addEventListener('click', (e) => {
+  e.target
+})
+
